@@ -1,0 +1,303 @@
+or dem Beginn einer Runde kann ein Spieler mit Hilfe eines automatischen Matchmaking-Systems Mitspieler und Gegner suchen. Alternativ kann ein Spieler für ein freies Spiel seine Mitspieler manuell suchen oder aus seiner Freundesliste einladen. In diesem Fall findet das Matchmaking-System keine Verwendung. Sind genügend Spieler für beide Teams gefunden (fünf je Team im klassischen Modus), gelangen alle Spieler der Partie gemeinsam in die Champion-Auswahl. Hier kann jeder Spieler seinen gewünschten Champion, eine Spielfigur mit individuellen Fähigkeiten, Stärken und Schwächen, auswählen. Der Spieler erfüllt dabei die Rolle des Beschwörers, der diese Figur beschwört und steuert. Je nach Spielmodus können alle Spieler gleichzeitig wählen oder jeweils abwechselnd pro Team. Im abwechselnden Auswahlmodus können zudem vor der Auswahl von allen 5 Mitgliedern jedes Teams je ein Champion „gebannt“ werden. Gebannte Champions können von keinem der Teams gewählt werden.
+
+Neben dem Champion können zwei Beschwörerzauber gewählt werden, welche im Spiel Verwendung finden. Diese sind vom gewählten Champion unabhängig. Zudem kann aus diversen Fertigkeitsverbesserungen, den Runen, ausgewählt werden, um den Champion an die individuelle Spielstrategie anzupassen.
+
+Die Schmetterlinge (Lepidoptera, von altgriechisch λεπίς lepís, deutsch ‚Schuppe‘ und πτερόν pterón, deutsch ‚Flügel‘) bilden mit knapp 160.000 beschriebenen Arten (Stand: 2011)[1], etwa 130 Familien und 46 Überfamilien[2] zusammen mit den Zweiflüglern (Diptera) nach den Käfern (Coleoptera) die artenreichste Insekten-Ordnung. Jährlich werden etwa 700 Arten neu entdeckt. Schmetterlinge sind auf allen Kontinenten außer Antarktika verbreitet. In Mitteleuropa sind sie mit etwa 4.000 Arten vertreten; für Gesamteuropa verzeichnet der Katalog von Ole Karsholt über 10.600 Arten.[3] In Deutschland sind es etwa 3.700 Arten.
+
+
+Inhaltsverzeichnis
+1	Herkunft des Namens
+2	Entwicklungszyklus
+3	Imagines
+3.1	Fühler
+3.2	Mundwerkzeuge
+3.3	Augen
+3.4	Brustabschnitt (Thorax)
+3.5	Flügel
+3.6	Hinterleib (Abdomen)
+3.7	Innerer Aufbau
+4	Raupen
+4.1	Segmente und Gliedmaßen
+4.2	Varianten
+4.3	Innerer Aufbau
+5	Mimikry, Tarnung und Warnung
+5.1	Falter
+5.2	Raupen
+6	Lebensweise und Verhalten
+6.1	Ernährung der Imagines
+6.2	Ernährung und Lebensweise der Raupen
+6.3	Flugverhalten
+6.4	Überwinterung
+6.5	Wanderungen
+7	Fortpflanzung und Entwicklung
+7.1	Balzverhalten
+7.2	Paarung
+7.3	Ei und Eiablage
+7.4	Raupe
+7.5	Puppe
+7.6	Schlupf
+8	Natürliche Feinde
+8.1	Spezialisierte Räuber und Parasitoide
+9	Verbreitung und Lebensräume
+9.1	Lebensraumansprüche
+9.2	Falterpflanzen
+10	Gefährdung und Schutz
+11	Sammlungen
+11.1	Historie
+11.2	Bewertung
+11.3	Berühmte Sammler und Sammlungen
+12	Ökologische Bedeutung
+12.1	Bioindikatoren
+12.2	Blütenbestäuber
+13	Entwicklungsgeschichte
+14	Systematik
+14.1	Externe Systematik
+14.2	Interne Systematik
+15	Schmetterlinge und der Mensch
+15.1	Wirtschaftliche Nutzung
+15.2	Schädling
+15.3	Krankheitsüberträger
+16	Schmetterlinge in Kunst und den nichtbiologischen Wissenschaften
+16.1	Mythologische Bedeutung
+16.2	Bildende Kunst
+16.3	Literatur
+16.3.1	Gedichte
+16.3.2	Romane
+16.4	Naturwissenschaften
+17	Siehe auch
+18	Literatur
+18.1	Zum Motiv „Schmetterling“ in Mythologie und Kunst
+19	Weblinks
+20	Einzelnachweise
+Herkunft des Namens
+
+Cethosia cyane
+Die deutsche Bezeichnung „Schmetterling“, 1501 erstmals belegt, kommt vom slawischstämmigen ostmitteldeutschen Wort Schmetten (das heißt Schmand, Rahm), von dem einige Arten oft angezogen werden. Im Aberglauben galten Schmetterlinge gar als Verkörperung von Hexen, die es auf den Rahm abgesehen hatten, worauf auch frühere landschaftliche Bezeichnungen für Schmetterlinge wie Milchdieb, Molkenstehler oder ähnliche hindeuten. Die englische Bezeichnung butterfly weist in dieselbe Richtung und entspricht den regional gebräuchlichen Bezeichnungen Buttervogel, Bottervagel, Botterlicker, da die Tiere beim Butterschlagen angelockt wurden. Örtlich existierten aber auch verschiedene weitere Bezeichnungen; neben den oben schon genannten beispielsweise westfälisch Schmandlecker (von Schmand), bayerisch Müllermaler, hessisch Lattichvogel (von Lattich), schlesisch, siebenbürgisch und in Teilen der Schweiz Sommervogel (gleichbedeutend dem dänischen sommerfugl), in anderen Teilen der Schweiz auch (P)Fifalter.[4]
+
+Das Wort Schmetterling setzte sich erst in der zweiten Hälfte des 18. Jahrhunderts allgemein durch. Bis dahin wurde diese Insektenordnung nach Rösel von Rosenhof (1749) noch „Tagvögel“ (für Tagfalter) oder „Nachtvögel“ (für Nachtfalter) genannt. Die Bezeichnung Falter hat weder mit falten (der Flügel) noch mit flattern zu tun. Das germanische Wort – mittelhochdeutsch vīvalter, althochdeutsch fīfalt(a)ra, altenglisch fīff(e)alde, altnordisch fífrildi – ist wahrscheinlich mit dem lateinischen pāpilio verwandt, woraus etwa italienisch farfalla oder französisch papillon abgeleitet sind. Darüber hinaus ist die indogermanische Herleitung unklar.[5]
+
+Die wissenschaftliche Bezeichnung Lepidoptera (Betonung auf dem o)[6] bedeutet „Schuppenflügler“. Es ist eine von Linné geprägte Zusammensetzung aus altgriechisch λεπίς lepís „Schuppe“ (Genitiv lepídos) und πτερόν pterón „Flügel“ (Plural pterá).[7] Das altgriechische Wort für Schmetterling war ψυχή psuchḗ oder psyche, deutsch ‚Hauch, Atem, Seele‘, da die Tiere als Verkörperung der menschlichen Seele angesehen wurden.[8][9][10] Dieser Ausdruck wurde vor allem für Nachtfalter verwendet und findet sich für Tagfalter erst in hellenistischer Zeit. Ein seltener gebrauchter Ausdruck war φάλαινα phalaina (spätere Schreibung φάλλαινα phallaina, als phalaena ins Lateinische übernommen).
+
+Entwicklungszyklus
+Schmetterlinge durchlaufen während ihres Lebens einen Zyklus mit ungewöhnlichem Gestaltwandel: Aus Eiern entwickeln sich flugunfähige „Raupen“, die sich durch Formveränderung fortbewegen und unter intensiver Nahrungsaufnahme erheblich wachsen. Dabei wechseln sie meistens mehrfach ihre Haut gegen eine größere („Häutung“). Am Ende des Raupenstadiums gehen sie unter Ausbildung einer festeren Hülle in einen Zustand über, der äußerlich als Ruhezustand erscheint, die sogenannte „Puppe“. In den Puppen verändern sie sich wesentlich: Sie bilden Flügel aus und wandeln sich in die flugfähige Form um, in den sogenannten „Falter“, auch als Imago bezeichnet. Die Falter nehmen durch Saugrüssel flüssige Nahrung auf und je ein weiblicher und ein männlicher Falter paaren sich mit Befruchtung der Eier des Weibchens. Die Weibchen legen danach die befruchteten Eier, aus denen Raupen schlüpfen. Siehe hierzu auch: Metamorphose.
+
+Imagines
+Der Körperbau der Imagines entspricht bei den Schmetterlingen dem Grundbauplan praktisch aller anderen Insekten: Sie besitzen ein Exoskelett aus Chitin und Proteinen, mehrere Sklerite genannte Platten sind in segmentalen Ringen angeordnet und durch Gelenkhäute beweglich verbunden. Auch die Beine und die Fühler bestehen aus solchen Ringen. Unterteilt wird der Körper in Kopf (Caput), Brust (Thorax) und Hinterleib (Abdomen). Beim Kopf der Schmetterlinge sind die Fühler, die Augen und bei den meisten Arten die Mundwerkzeuge mit dem Saugrüssel sehr auffällig, am Thorax sind die meist großen und sehr zarten Flügel aufgehängt, welche die gesamte Gestalt der Falter dominieren.
+
+Schmetterlinge erreichen eine Körperlänge (ohne Flügel gemessen) von 1,5 bis 100 Millimeter. Als größter Schmetterling gilt der Eulenfalter Thysania agrippina aus Südamerika. Diese Falter erreichen Flügelspannweiten von 25 bis 30 Zentimetern. Der Königin-Alexandra-Vogelfalter (Ornithoptera alexandrae) ist mit Spannweiten von 20 bis 28 Zentimetern der größte Tagfalter. Die kleinsten Falter sind Angehörige der Schopfstirnmotten (Tischeriidae), die Arten mit einer Flügelspannweite von nur 1,5 bis 2 Millimeter beinhalten. Als Falter mit der größten Flügelfläche gilt der Atlasspinner (Attacus atlas) aus Südostasien.
+
+Fühler
+
+Verschiedene Fühlertypen der Tagfalter
+Der Bau der Fühler kann sehr unterschiedlich sein und ist oft ein Charakteristikum der jeweiligen Schmetterlingsfamilie. Es gibt fadenförmige, gekeulte (die fadenförmig sind und am Ende eine Verdickung aufweisen), gesägte (die auf einer Seite abstehende Fortsätze haben) und gekämmte Fühler (die diese auf beiden Seiten tragen), zusammen mit allen möglichen Übergängen. Die Fühler sind bei den Geschlechtern oft unterschiedlich gebaut, in diesen Fällen sind sie bei den Männchen viel stärker ausgeprägt. Mit ihren Fühlern können die Schmetterlinge riechen, manche auch tasten, schmecken und Temperaturen wahrnehmen. Die Reizaufnahme erfolgt durch kleine Härchen, die auf den Fühlern verteilt sind. Durch gesägte oder gekämmte Fühler wird die Oberfläche stark vergrößert, was den Geruchssinn erheblich verbessert. Männchen können dadurch die von paarungsbereiten Weibchen abgegebenen Pheromone auf große Distanz wahrnehmen. Dies ist vor allem bei Faltern wichtig, die in sehr zerstreuten Populationen oder in Wäldern leben und deswegen nicht durch Zufall aufeinanderstoßen. Die Weibchen erriechen mit ihren Fühlern die richtigen Raupennahrungspflanzen.[11]
+
+Mundwerkzeuge
+
+REM-Aufnahme eines Schmetterlingskopfes mit eingerolltem Rüssel
+Die Mundwerkzeuge der Schmetterlinge sind im Vergleich zu anderen Insekten sehr spezialisiert und abgewandelt. Ihre Mandibeln (Oberkiefer) sind stark verkümmert. Nur bei der Familie der Urmotten (Micropterigidae) werden diese noch als Beißwerkzeuge verwendet. Bei den meisten Schmetterlingen bilden die Unterkiefer (Maxillen) zwei flexible Halbröhrchen, die über Falznähte verbunden sind. Dadurch wird zwischen den beiden Röhrchen das Saugrohr gebildet, mit dem die Falter ihre Nahrung aufsaugen können. Diese kann nur flüssig sein. Nahezu alle Schmetterlinge ernähren sich von Blütennektar, Pflanzensäften und anderen nährstoffreichen Flüssigkeiten. In Ruhestellung wird der Saugrüssel unter dem Kopf eingerollt. Neben den veränderten Maxillen verfügen die Schmetterlinge über Maxillarpalpen, die zurückgebildet sind, sowie Lippentaster (Labialpalpen), die bei manchen Arten verlängert und groß ausgebildet sind (z. B. bei der Unterfamilie Libytheinae der Edelfalter). Auf den Palpen finden sich Tast- und Riechorgane.[11]
+
+Die Länge des Rüssels ist je nach Art sehr unterschiedlich. Die Schwärmer (Sphingidae) haben die längsten Rüssel. Bei einer in den Subtropen lebende Schwärmerart Amphimoea walkeri beträgt die Rüssellänge 280 Millimeter; bis jetzt ist noch keine andere Schmetterlingsart entdeckt, die diese Länge übertrifft. Damit können sie in die besonders engen Blütenhälse von Orchideen eindringen. Der Rüssel des Totenkopfschwärmers (Acherontia atropos) ist dagegen sehr kurz, aber sehr kräftig gebaut. Mit ihm können die Tiere bereits verdeckelte Bienenwaben aufstechen und aussaugen, zusätzlich können sie mit ihm Pfeiftöne erzeugen.
+
+Bei einigen Schmetterlingsarten wie den Pfauenspinnern (Saturniidae) oder den Glucken (Lasiocampidae) ist der Rüssel gänzlich zurückgebildet. Ihre einzigen Mundwerkzeuge sind die unpaare Unterlippe (Labium) mit den Labialpalpen. Damit können sie aber keine Nahrung aufnehmen. Diese Tiere sterben schon bald nach der Paarung. Ihr eigentliches Leben spielt sich im Stadium der Raupe ab.
+
+Die Urmotten (Micropterigidae) haben keinen Rüssel, sie können aber mit Mandibeln kauen und ernähren sich von Pollen.
+
+Auf der Unterlippe der Raupe befindet sich auf einem Zapfen die Öffnung der Spinndrüsen, in denen Seide in Form einer Flüssigkeit produziert wird, die nach dem Austreten an der Luft erstarrt.
+
+Augen
+
+Augen und Rüssel des Kleinen Kohlweißlings
+Die Augen sind wie bei anderen Insekten als Facettenaugen ausgebildet. Diese bestehen aus bis zu 6.000 kleinen Einzelaugen (Ommatidien). Neben diesen haben viele Schmetterlingsarten zusätzlich ein Paar Einzelaugen (Ocellen), mit denen sie ihren Tag-Nacht-Rhythmus steuern. Im Gegensatz zu den Tagfaltern haben Nachtfalter, die großen Helligkeitsunterschieden ausgesetzt werden, Pigmentzellen in ihren Augen, mit denen sie die einfallende Lichtintensität regulieren können. Sie sind kurzsichtig, da sie bedingt durch die Facettenaugen nicht akkommodieren, also die Sehschärfe nicht dem Objektabstand anpassen können. Hinzu kommt, dass sie durch die Facetten auch nur „pixelig“ sehen. Sie besitzen aber ein großes Gesichtsfeld und reagieren gut auf Bewegungen. Die Falter haben auch eine andere Farbempfindlichkeit als der Mensch. Sie erkennen keine roten Farben, dafür sind sie im Ultraviolett­bereich empfindlich. Speziell die Nachtfalter werden von UV-Lampen angezogen. Mit ihren Augen können Schmetterlinge etwa 200 m weit sehen und sich auf ein in diesem Abstandsbereich befindliches Flugziel hinbewegen.[11]
+
+Brustabschnitt (Thorax)
+Der Thorax besteht aus drei ringförmigen Teilen (Prothorax, Mesothorax und Metathorax), welche die gesamten Bewegungsorgane der Tiere umfassen. Auf jedem Segment ist ein Beinpaar platziert. Bei vielen Tagfaltern ist das erste Beinpaar zurückgebildet und wird mit seinen Putzspornen nur zur Reinigung verwendet. Die Beine bestehen aus Hüfte (Coxa), Schenkelring (Trochanter), Schenkel (Femur), Schiene (Tibia) und Fuß (Tarsus). Der Fuß besteht wiederum aus fünf Gliedern, am letzten Glied sind Klauen zum Festhalten ausgebildet. Bei manchen Faltern befinden sich auf den Tarsen Sinnesorgane, mit denen sie schmecken können. Die Beine der Olivbraunen Zünslereule (Zanclognatha tarsipennalis) tragen Dornen und große Haarbüschel, die vermutlich dazu dienen, Duftstoffe zu verteilen. Auf den beiden hinteren Segmenten des Thorax sitzen die beiden Flügelpaare.[11]
+
+Schmetterlinge sind in der Lage zu hören. Ihre Ohren (Tympanalorgane) befinden sich entweder im hinteren Bereich des Thorax oder am Abdomen in einer von einer dünnen Membran bedeckten Grube. Diese Membran funktioniert ähnlich wie das menschliche Trommelfell. Evolutionär weit entwickelte Nachtfalter, wie beispielsweise Eulenfalter (Noctuidae) oder Bärenspinner (Arctiidae), sind auch im Ultraschallbereich sensibel, da ihre Hauptfeinde, die Fledermäuse, diese Signale zur Ortung nutzen. Wird ein Ortungston empfangen, lassen sich die Falter im Flug fallen, um der Erbeutung zu entgehen. Bärenspinner können sogar Ultraschallgeräusche abgeben. Da viele von ihnen giftig sind, assoziieren Fledermäuse diese Geräusche mit Ungenießbarkeit und lassen von den Faltern ab.[12]
+
+
+Flügelschuppen unter dem Mikroskop
+
+Birkenspanner (Biston betularia); dunkle Form
+
+Flügel von Heliconius ismenius
+Flügel
+Die Flügel sind bis auf wenige Ausnahmen die eigentlichen Bewegungsapparate der Falter. Die Vorder- und Hinterflügel sind einzeln aufgehängt, werden aber im Flug mitunter durch besondere Mechanismen miteinander gekoppelt. Bei den meisten Tagfaltern fehlt aber eine solche Verbindung. Über die Flügel, zwischen einer oberen und einer unteren Membran, verlaufen die Flügeladern. Diese werden nach dem Schlüpfen, wenn die Flügel noch schlaff und unbeweglich sind, mit einer Blutflüssigkeit gefüllt. Danach können die Flügel trocknen, und diese Adern verlieren ihre Funktion. Die Flügel sind auf der Ober- und Unterseite mit Schuppen bedeckt. Zudem ist bei den meisten Schmetterlingen der gesamte Körper beschuppt. Diese Schuppen sind abgeflachte, artspezifische Haare, die dachziegelartig auf den Flügeln liegen und so die Flügeladern verdecken.[11]
+
+Da die Flügel für die Bestimmung von Schmetterlingen besonders wichtig sind, und oft nur geringe Unterschiede zwischen verschiedenen Arten bestehen, werden die Flügel in Regionen aufgeteilt und die Adern der Flügel und die daraus gebildeten Zellen nummeriert. Als Beispiel werden die Flügel eines Tagfalters beschrieben: Die Regionen verlaufen vom Flügelansatz zur Spitze, wobei jeder der Vorder- und Hinterflügel in vier Regionen aufgeteilt wird. Die Adern werden auf den Vorderflügeln von eins bis zwölf nummeriert beginnend von hinten mit eins, die parallel zum Innenrand verläuft. Auf den Hinterflügeln befinden sich nur neun durchgängige Adern, teilweise gibt es aber auch eine zehnte. Die Flächen, die dabei von den Flügeladern begrenzt werden, nennen sich Zellen bzw. Mittel- oder Diskoidalzellen. Näheres zu den Flügeln findet sich im Artikel Flügel (Schmetterling).[13]
+
+Schmetterlinge sind oft auffällig gefärbt. Die Färbung entsteht einerseits durch Pigmente, andererseits durch spezielle Oberflächenstrukturen (auch Strukturfarben genannt), die Lichtbrechungs­effekte verursachen. Die einzelnen Schuppen sind immer nur einfarbig. Ihre Form variiert dagegen stark. Die häufigste Form ist die schildförmige mit drei bis fünf Spitzen und einem in einer Vertiefung verankerten schmalen Stiel am Ende. Andere sind lanzenförmig oder kreisrund. Manche Schuppen, die dann meist in Feldern nebeneinander liegen und mit Haarbüscheln versehen sind, ermöglichen das Aussenden von Gerüchen durch Poren. Diese Duftschuppen (Androkonien) erleichtern den Geschlechtspartnern das gegenseitige Auffinden. Die Schuppen sind nicht für das Fliegen notwendig. Bei den Glasflüglern (Sesiidae) sind große Bereiche der Flügel anfangs noch lose beschuppt, werden aber beim ersten Flug durch den Verlust der Schuppen durchsichtig und glasklar.[12]
+
+Bei den Weibchen mancher Arten, sehr selten auch bei den Männchen, sind die Flügel völlig zurückgebildet. Sie können sich nur laufend fortbewegen. Dies ist beispielsweise bei den Echten Sackträgern (Psychidae) der Fall. Auch bei den Spannern (Geometridae) gibt es Arten mit verkürzten Flügeln.
+
+Neben den „normal“ gefärbten kann es auch Exemplare derselben Art geben, die ganz anders gefärbt sind. Sie werden Aberrationen oder Morphen genannt. Meistens handelt es sich hierbei um dunklere bis ganz schwarze Exemplare. In früheren Zeiten wurden für die verschiedenen Färbungsvarianten einer Art eigene Namen geprägt, nach heutiger Auffassung haben diese Namen aber keinerlei nomenklatorische Relevanz.
+
+Hinterleib (Abdomen)
+Das Abdomen besteht aus zehn gleichförmig gestalteten Segmenten, die mit artspezifisch gefärbten Schuppen bedeckt sind. Im Abdomen finden sich die lebenserhaltenden Organe, ein schlauchförmiges Herz, das Nervensystem, der Verdauungstrakt und die Geschlechtsorgane sowie verschiedene Drüsen, die vor allem Duftstoffe produzieren. Die Geschlechtsorgane sind artspezifisch gebaut und deshalb für die Bestimmung sehr wichtig. Außen trägt das Männchen einen Klammerapparat, um das Weibchen während der Paarung festzuhalten. Das Weibchen ist mit einer Legeröhre (Ovipositor) ausgestattet. Bei manchen Arten besitzen die Weibchen am Ende des Hinterleibs Haarbüschel, die über den Eigelegen zur Tarnung abgestreift werden können. Andere Arten weisen Dornen auf, die beim Berühren Gift absondern.[11]
+
+Innerer Aufbau
+Das röhrenförmige Herz pumpt in einem einfachen Kreislauf das Blut (Hämolymphe), das um die Organe herumfließt, durch den Körper. Das Blut transportiert Nährstoffe im Körper, aber keinen Sauerstoff bzw. Kohlendioxid. Der Gasaustausch erfolgt über Tracheen, die mit ihrem verzweigten Rohrsystem alle Organe mit Sauerstoff versorgen, der durch seitliche Öffnungen (Stigmen) in den Körper gepumpt wird. Der maximale Transportweg ist bei diesem Atmungssystem begrenzt, was auch der Grund ist, warum Schmetterlinge und Insekten allgemein in ihrem Größenwachstum beschränkt sind.
+
+Das Nervensystem befindet sich auf der Unterseite unterhalb des Darms. Es besteht aus zwei parallel laufenden Nervensträngen, die durch Ganglien miteinander strickleiterartig verbunden sind. Am vorderen Ende des Abdomens führen die Stränge um den Darm herum und verbinden sich mit den Kopfganglien des Gehirns, bestehend aus dem Unterschlund- und dem Oberschlundganglion. Diese beiden Nervenabschnitte sind voneinander unabhängig. Das bedeutet, dass der Körper noch arbeiten kann, obwohl das Gehirn bereits tot ist. Das Verdauungssystem beginnt mit einem muskulösen Rachen (Pharynx), der die Nahrung vom Mund in die Speiseröhre (Ösophagus) pumpt. Sie ist als Rohr ausgebildet und führt in den Nahrungsspeicher. An ihn schließt der Mitteldarm an, in dem Nährstoffe in das Blut aufgenommen werden. Darauf folgt der Enddarm. Dort sowie von den zwei röhrenförmigen Nieren (Malpighische Gefäße) werden Stoffwechselprodukte aus den Organen aufgenommen und über den After ausgeschieden. Wie schon erwähnt gibt es nicht nur Schmetterlinge, die keine Nahrung zu sich nehmen und deren Verdauungssystem nutzlos ist, sondern auch solche, die überhaupt kein Verdauungssystem haben, wie es bei manchen Pfauenspinnern der Fall ist.[12]
+
+Die inneren Geschlechtsorgane bestehen bei den Männchen aus zwei über dem Darm liegenden Hoden, die bei vielen Arten zusammengewachsen sind. Sie sind durch schmale Röhren (Vasa deferentia) mit dem Ductus ejaculatorius verbunden, der zum Aedeagus führt. Er fungiert als Penis und überträgt die Spermien in das Weibchen. Meistens werden die Spermien aber in einer Blase mit härterer Hülle (Spermatophore) gespeichert und übertragen. Die Weibchen haben zwei Eierstöcke (Ovarien), die mit je vier Schläuchen verbunden sind, in denen die Eier gebildet werden.[12]
+
+Raupen
+
+Raupe des Pappelschwärmers
+
+Bauchbeine der Raupe des Schwalbenschwanzes
+
+Kopfdetail der Raupe der Achateule
+→ Hauptartikel: Raupe
+Die Raupe ist das eigentliche Fressstadium des Schmetterlings. Bei manchen (z. B. Pfauenspinner (Saturniidae), Glucken (Lasiocampidae)) ist es sogar das einzige, in dem überhaupt Nahrung aufgenommen wird. Die Falter dieser Arten leben dann nur für die Fortpflanzung und sterben schon bald nach ihrem Schlupf. Da sich das Körpervolumen der Raupen stark vergrößert, müssen sie sich mehrmals häuten, bis sie ihre endgültige Größe erreicht haben. In der Regel häuten sie sich vier bis fünf Mal, wobei sich ihr Volumen jeweils etwa verdoppelt. Zur hormonell gesteuerten Häutung schwillt die Raupe an, bis die alte Haut platzt und durch Muskelbewegungen nach hinten weggeschoben werden kann.[11][14]
+
+Segmente und Gliedmaßen
+Der Rumpf der Raupen besteht, ähnlich wie bei anderen Insekten mit vollständiger Metamorphose, aus gleichmäßig aneinander gereihten Segmenten. Schmetterlingsraupen haben 14 Segmente, bestehend aus dem Kopf, drei Brustsegmenten und zehn Hinterleibssegmenten, von denen die letzten drei meistens zu einem Analsegment verwachsen sind. Wie die Falter lassen sich auch die Raupen in die drei Bereiche Kopf, Brust und Hinterleib unterteilen.
+
+Der Kopf ist gewöhnlich durch Chitineinlagerungen verhärtet. Außen auf der Unterseite haben sie zwei bis acht (meistens drei) Paar Punktaugen (Stemmata). Das wichtigste und auch das Aussehen des Kopfes dominierende Merkmal sind die Mundwerkzeuge. Sie sind im Gegensatz zu den stummelförmig angelegten Fühlern stark ausgeprägt.[11][15]
+
+Die drei Brustsegmente bilden zusammen die Brust. Auf ihnen ist je ein Beinpaar platziert (Brustbeine), die wie bei den Faltern ausgebildet, aber kürzer sind und mit denen Nahrung festgehalten wird. Am Rücken des ersten Brustsegmentes befindet sich normalerweise ein Nackenschild, das aus einer mit Chitin verhärteten Platte besteht. Seitlich davon gibt es je eine porenartige Öffnung (Stigma), mit der das Tracheensystem mit Sauerstoff versorgt wird. Nur selten sind auf den anderen Brustsegmenten ebenfalls solche Öffnungen vorhanden.
+
+Die darauf folgenden zehn Hinterleibssegmente bilden das Abdomen, das aber nicht deutlich vom vorderen Teil des Körpers getrennt ist. Jedes dieser Hinterleibssegmente trägt ein Stigma für die Atmung. Die ersten beiden Segmente sind beinlos, im Unterschied zu den sehr ähnlichen Larven der Blattwespen, die lediglich ein beinfreies Segment besitzen. Die nächsten Segmente, meistens vom dritten bis zum sechsten, tragen Gliedmaßen. Diese sogenannten Bauchbeine sind aber keine eigentlichen Beine, sondern nur ungegliederte Hautausstülpungen, die am Ende Hakenkränze zum besseren Festklammern tragen. Sie sind in ihrer Gestalt deutlich kuppeliger als die echten Beine und am Ende meist saugnapfartig verbreitert. Am zehnten Hinterleibssegment findet sich ein weiteres Paar echter Beine, die deutlich kräftiger gebaut sind. Diese werden Nachschieber genannt.
+
+Zwischen den Brustbeinen und den Bauchbeinen befindet sich eine Spinndrüse, mit der die Raupen einen Spinnfaden erzeugen können.[14][15]
+
+Varianten
+Mehrere Familien weichen von dieser klassischen Raupenform ab: Die Urmotten (Micropterigidae) haben beide ersten Hinterleibssegmente mit Bauchbeinen versehen, den Spannern (Geometridae) fehlen die ersten drei Bauchbeinpaare, die zurückgebildet sind, und bei einigen Eulenfaltern (Noctuidae) fehlen die ersten beiden. Bei den Schneckenspinnern (Limacodidae) sind die Brustbeine zu winzigen Stummeln zurückgebildet. Alle anderen Beinpaare sind ebenfalls zurückgebildet, so dass sich diese Raupen kriechend wie Nacktschnecken fortbewegen.[12]
+
+Die glatten Raupen der Ritterfalter (Papilionidae) haben eine Nackengabel, die sie bei Bedrohung schnell ausstülpen können und die einen für Feinde unangenehmen Geruch verströmt. Ähnliche ausstülpbare Drüsen am Rücken haben beispielsweise auch die Raupen der Gespinst- und Knospenmotten (Yponomeutidae), Noctuoidea und Geometroidea.
+
+Zum Schutz vor Vögeln oder parasitoiden Wespen und Fliegen tragen viele Raupen Dornen oder Haare. Dornen sind bei vielen Edelfalterraupen verbreitet, eine starke Behaarung haben viele Raupen der Bärenspinner. Ein außergewöhnliches Aussehen haben viele Trägspinner (Lymantriidae) durch Haarbüschel verschiedener Farbe und Länge. Die Haare verursachen bei Menschen teilweise Hautreizungen durch Gifte, oft lösen sie sich, wenn sie gegen den Strich gebürstet werden. Wenn die Haare keine Gifte enthalten, können sie alleine durch das Eindringen in die Haut, was wie viele kleine Nadelstiche wirkt, Juckreize und Rötungen verursachen. Die Raupe des Eichen-Prozessionsspinners (Thaumetopoea processionea) hat über 600.000 giftige Haare, die schon Allergien auslösen können, wenn sich Menschen nur unter befallenen Bäumen aufhalten.[15]
+
+Innerer Aufbau
+Ein kleines Gehirn befindet sich im unteren Bereich des Kopfes. Von der Mundöffnung bis zum Hinterleibsende verläuft ein schlauchförmiger Darm. Im Raupenstadium sind schon die Hoden der späteren Falter angelegt, sie befinden sich unter der Oberseite des Hinterleibs. Die inneren Organe werden durch das grün oder gelb gefärbte Blut, auch die Hämolymphe genannt, mit Sauerstoff und Nährstoffen versorgt. Dieses wird von einem Rückengefäß durch den Körper gepumpt.
+
+Mimikry, Tarnung und Warnung
+Falter
+
+Tagpfauenauge
+
+Hornissen-Glasflügler
+Durch die vielen verschiedenartigen Fressfeinde der Schmetterlinge haben sich im Laufe der Evolution zur Tarnung, Täuschung und Warnung auf ihren Flügeln vielfach Zeichnungen entwickelt, die entweder wie Tieraugen aussehen, gefährliche und giftige Tiere imitieren (Mimikry) oder durch auffällige Färbung (Aposematismus) vor ihrer Ungenießbarkeit oder Giftigkeit warnen. Tieraugen finden sich etwa auf den Flügeln des Tagpfauenauges, bei der Gattung der Nachtpfauenaugen und der neotropischen Gattung Caligo. Die falschen Augen verwirren Räuber und verleiten sie, an falscher Stelle zuzuschnappen.
+
+Der Hornissen-Glasflügler (Sesia apiformis) sieht Hornissen zum Verwechseln ähnlich.[12]
+
+Einige Tagfalter weisen auf der Oberseite der Flügel bunte Zeichnungen auf, die Unterseite ist aber meist einfach gezeichnet und erscheint oft wie welkes Laub. Dadurch sind sie mit geschlossenen Flügeln gut getarnt und der Umgebung angepasst. Manche Falter imitieren auf ihren Flügelunterseiten Blattadern. Vor allem Nachtfalter, die am Tag meist auf Baumrinde sitzen, besitzen eine rindenähnliche Flügelfärbung. Vogelkotmimese ist ebenfalls eine weit verbreitete Tarnmethode. Raupen, Falter und Puppen sehen nicht nur aus wie Vogelkot auf der Blattoberseite, sie können diesen Eindruck auch noch durch eine entsprechende Körperhaltung verstärken. Ein Beispiel hierfür ist der Ulmen-Harlekin (Calospilos sylvata).[12]
+
+Es gibt auch Falter mit Schreckfärbung wie das Rote Ordensband (Catocala nupta). Wenn diese Falter unscheinbar auf Baumstämmen ruhen, kann man nur ihre braungrauen Vorderflügel erkennen. Werden sie aber aufgeschreckt und fliegen sie davon, werden ihre leuchtend roten Hinterflügel sichtbar.
+
+Falter, deren Körper Gifte enthalten und die damit für die meisten ihrer potentiellen Feinde ungenießbar sind, warnen diese durch eine auffällige Färbung. Viele Falter der Danaidae warnen Fressfeinde durch auffällige Färbungen, ebenso die zu den Nachtfaltern gehörenden tagaktiven Widderchen, die Blausäure oder andere Gifte enthalten.
+
+Bei vielen Arten der Weißlinge, Edelfalter und Schwalbenschwänze imitieren die Weibchen giftige Falter anderer Familien. Da die Männchen für die Paarung von den Weibchen ausgewählt werden, müssen diese leicht für die Weibchen erkennbar sein. Daher zeigen diese das ursprüngliche Aussehen der Art und haben keine Mimikry entwickelt.[16]
+
+Raupen
+
+Raupe des Mittleren Weinschwärmers
+Auch die Raupen haben viele Fressfeinde und haben sich ebenso wie die Falter angepasst. Raupen, die etwa auf Nadelbäumen leben, haben meist eine Längszeichnung, die sie zwischen den Nadeln scheinbar verschwinden lässt. So ahmt Thera firmata (Geometridae) mit Längsstreifen die Kiefernadeln ihrer Futterpflanze nach, ihr Kopf gleicht in Form und Farbe zusätzlich einer Knospe.
+
+Einige Raupen der Familie der Ritterfalter (Papilionidae), die Raupen von Acronicta alni (Noctuidae) und einige Raupen der Gattung Trilocha (Echte Spinner) haben eine Vogelkotmimese entwickelt.
+
+Viele Spannerraupen (Geometridae) ahmen zur Tarnungen die Form von Ästen nach. Wenn sie verkehrt herum auf einem Ast sitzen, verschwimmen sie, als ob sie nicht dick wie eine Raupe, sondern flach wie ein Blatt wären. Zur Tarnung dient hier auch eine Gegenschattenfärbung, die den walzenförmigen Körper der Raupe verbergen soll. Andere Spanner verharren regungslos mit der Hinterseite an einem Ast klammernd und sehen so mit ihrer perfekt angepassten Farbe einem kleinen Ästchen ähnlich. Sie bilden sogar knospenartige Verdickungen aus. Die Raupen von Nemoria arizonaria hat einen Saisondimorphismus entwickelt, das heißt, sie sehen je nach Jahreszeit anders aus. Im Frühjahr ahmen sie die Kätzchen der Futterpflanze, einer Eiche, nach. Im Sommer fressen sie deren Blätter und ahmen die Ästchen, auf denen sie sitzen, nach.
+
+Eine effektive Abschreckung von Räubern durch Nachbildungen von Tieraugen haben sich bei einigen Schwalbenschwänzen und Schwärmern parallel entwickelt. Sie tragen meistens zwei Augenflecken und können so auch durch die Körperhaltung kleine Schlangen imitieren. Ein Beispiel hierfür findet sich bei den Schwärmern der Gattung Hemeroplanes.
+
+Raupen, die giftig sind, warnen Fressfeinde durch auffällige Färbung, wie beispielsweise viele Arten der Unterfamilie der Danaidae, wozu auch der Monarchfalter gehört. Diese Raupen verstecken sich nicht und zeigen sich ungestört auf ihren Fraßpflanzen. Andere Raupen, die zwar nicht giftig sind, aber die eine ähnliche Färbung (Mimikry) aufweisen, profitieren von ihnen.[11][17][18]
+
+Lebensweise und Verhalten
+Ernährung der Imagines
+
+Distelfalter (Cynthia cardui) saugt Nektar
+
+Kleine Kohlweißlinge (Pieris rapae) versammelt an einer Salz-/Mineralienlecke
+
+Große und Kleine Schillerfalter saugen an einem Froschkadaver
+Die erwachsenen Tiere (Imagines) nehmen mit ihrem Saugrüssel meist nur flüssige Nahrung auf, meist Blütennektar. Sie fliegen dazu eine Vielzahl verschiedener Blüten an und sind deswegen auch für deren Bestäubung wichtig. Einige Pflanzen mit tiefen Blütenkelchen können nur von Schmetterlingen bestäubt werden. Es werden aber auch noch andere süße Flüssigkeiten wie z. B. Pflanzensäfte, Honigtau von Läusen und der Saft von faulendem Obst gesaugt. Der Totenkopfschwärmer (Acherontia atropos) hat sich auf das Aussaugen von Bienenwaben spezialisiert.
+
+An heißen Tagen saugen Schmetterlinge auch gerne Wasser aus kleinen Pfützen. Sie tun dies aber auch, um Mineralsalze aufzunehmen.
+
+Wenige Schmetterlingsarten ernähren sich ganz oder teilweise von Tierexkrementen, Urin, Schweiß und Tränenflüssigkeit. Unter den Edelfaltern gibt es einige Arten, die bevorzugt an Tierexkrementen und Schweiß saugen, dazu gehören etwa der Große Schillerfalter und der Eisvogel. Die Nachtfalter Lobocraspis griseifusa, Arcyophora sp. und Filodes fulvidorsalis der Familien Zünsler (Pyralidae), Eulenfalter (Noctuidae) und Spanner (Geometridae) aus Afrika, Brasilien und Südostasien trinken Tränenflüssigkeit. Durch Irritation des Augapfels wird die Tränenproduktion des Opfers stimuliert. Meistens werden größere Tiere, wie große Säugetiere und auch Krokodile angeflogen. Auf Madagaskar gibt es aber keine solchen Tiere, und da kleinere Säugetiere, wie etwa Lemuren, die Falter vertreiben können, müssen die dort lebenden lachryphagen Schmetterlingsarten wie etwa Hemiceratoides hieroglyphica auf Vögel ausweichen. Dies kann nur während der Nacht geschehen. Die Falter besitzen speziell geformte Saugrüssel, die sie unter die Lider der schlafenden Vögel schieben können. Einige tränenflüssigkeitstrinkende Falterarten saugen auch gerne Blut aus offenen Wunden. Bei einigen anderen Arten wie der Wiesenrauten-Kapuzeneule (Calyptra thalictri) sowie der subtropischen Arten Calyptra eustrigata, Calyptra minuticornis, Calyptra orthograpta und Calyptra labilis aus der Familie der Eulenfalter (Noctuidae) ist der Saugrüssel zu einem Stechrüssel umgebildet und kann bis zu sieben Millimeter tief in die Haut des Wirtstieres eindringen. Diese Schmetterlingsarten ernähren sich zuweilen vom Blut bestimmter Säugetiere und auch des Menschen. Sie können daher auch Krankheitserreger wie Viren übertragen.
+
+Der Rüssel ist bei manchen Schmetterlingen (beispielsweise Pfauenspinner (Saturniidae), Glucken (Lasiocampidae)) mehr oder weniger zurückgebildet. Diese Schmetterlinge können dann keine Nahrung mehr aufnehmen. Sie leben wenige Tage von ihren Reserven, um sich zu paaren. Eine weitere Ausnahme bilden die Urmotten (Micropterigidae), die noch Mandibeln besitzen und Blütenpollen fressen. Die Heliconius-Arten nutzen Pollen, den sie auf ihrem Rüssel verdauen, um zusätzlich an Stickstoff zu gelangen, was ihnen ein bis zu 8 Monate langes Leben ermöglicht.[19][20]
+
+Ernährung und Lebensweise der Raupen
+Die Raupen, welche völlig anders gestaltet sind als die Falter, ernähren sich auch ganz anders. Meist wird nach dem Schlupf zuerst die Eischale gefressen. Danach fressen die Raupen der meisten Schmetterlingsarten Blätter, Nadeln, Blüten, Samen oder Früchte verschiedener Pflanzen, wobei viele Arten auf bestimmte Pflanzen spezialisiert und angewiesen sind (Monophagie). Speziell unter diesen gibt es auch Minierer wie etwa die Miniermotten (Gracillariidae). Diese fressen Blätter oder auch Nadeln zwischen ihren Ober- und Unterhäuten (Cuticula) auf. Dabei entstehen typisch geformte Fraßgänge (Minen). Andere Schmetterlingsraupen ernähren sich von organischen Abfällen, Algen, Flechten oder auch räuberisch. Bei Schmetterlingsraupen kommt es auch zu Kannibalismus, wenn Nahrungsmangel herrscht. Einige Arten ernähren sich sogar zoophag, darunter die Raupe des hawaiischen Hyposmocoma molluscivora, welche sich vor allem von sehr kleinen Schnecken ernährt, die sie mit ihren seidenen Spinnfäden an ihrer Sitzstelle festklebt.[12]
+
+Die Raupen einiger Schmetterlingsfamilien leben in Symbiose oder als Sozialparasiten mit Ameisen. In Mitteleuropa leben einige Raupen der Bläulinge mit Schuppen- und Knotenameisen zusammen. Die Raupe sondert mit Drüsen am Rücken eine zuckerhaltige Flüssigkeit aus. Diese lockt Ameisen an, die die Raupe, nicht wie sonst bei kleinen Insekten, töten, sondern nur die süße Flüssigkeit einsammeln und die Raupe beschützen. Die Ameisen trommeln mit ihren Beinen auf den Rücken der Raupe, um die Produktion der süßen Flüssigkeit anzuregen. Im letzten Raupenstadium schleppen sie die Raupe in ihren Bau. Hier nimmt sie den Geruch der Ameisen an. Sie lebt jetzt nicht mehr symbiotisch mit den Ameisen, sondern sie tritt hier als Sozialparasit auf und ernährt sich von der Brut und lässt sich auch von den Ameisen füttern, da sie genauso bettelt wie die Brut der Ameisen. Obwohl sie nach wie vor eine zuckerhaltige Flüssigkeit absondert, steht das nicht im Verhältnis zu dem Schaden, den die Ameisen erleiden. Im Bau verpuppt sie sich und überwintert je nach Jahreszeit. Damit gehören diese Schmetterlinge zu den wenigen, die in stark von Ameisen besiedelten Gebieten überleben können. In Mexiko lebt der Würfelfalter (Riodinidae) Anatole rossi symbiotisch mit Ameisen. Die Ameisen sperren die Raupe jeden Abend in eine Erdhöhle, um sie vor anderen räuberischen Ameisen zu schützen. Tagsüber bewachen sie die Raupe und wehren beispielsweise parasitoide Schlupfwespen ab. Auch bei Trockenheit bringen die Ameisen die Raupe in eine Erdhöhle, wo sie sogar Waldbrände überdauern kann. Als Belohnung erhalten die Ameisen ebenfalls eine süße Flüssigkeit.[21]
+
+Flugverhalten
+
+Aurorafalter im Flug
+
+Taubenschwänzchen beim Nektarsaugen
+Abhängig von der Schmetterlingsart und ihrer Flügelform können mehrere Flugformen unterschieden werden. Vom schnellen Schwirrflug über das schnelle bis hin zum langsamen Flattern und Gleiten zeigen sie alle von der Geschwindigkeit des Flügelschlags und der Art der Fortbewegung bedingten Abstufungen. Angetrieben werden die Flügel durch mehrere Muskeln des Thorax. Die Flügel der Falter schlagen im Flug nicht einfach auf und ab, sondern drehen sich an der Basis, sodass sie eine „8“ beschreiben. Zu den schnellsten Faltern gehören die Schwärmer (Sphingidae), deren Flügel ähnlich wie bei einem Kolibri schlagen. Sie können sich mit bis zu 50 km/h fortbewegen und im Flug, während des Nektarsaugens, auch stillstehen und sogar rückwärts fliegen. Nachtfalter haben neben dem normalen Flug auch ein Repertoire an verschiedenen Balzflügen zu bieten. So tänzeln Langhornmotten (Adelidae) auf der Stelle und Wurzelbohrer (Hepialidae) pendeln hin und her. Die ganz kleinen Falter können sich durch den Wind tragen lassen und schweben in der Luft wie Plankton im Wasser. Im Allgemeinen ist der Wind ein wichtiges Transportmittel, nicht nur, um die Ausbreitung der Arten zu beschleunigen. Manche Schmetterlingsarten, vor allem Echte Motten (Tineidae), sind flugträge.[12]
+
+Als wechselwarme Tiere müssen sie sich erst aufwärmen, um fliegen zu können. Tagfalter nutzen dafür die Sonne. Durch die große Flügelfläche können sie dies auch bei bedecktem Himmel tun. Nachtfalter müssen sich durch Vibrieren der Flügel und die aus der Bewegung der Muskeln resultierende Wärme aufheizen. Wenn die Körpertemperatur an sonnigen, sehr heißen Tagen zu hoch wird, setzen sich die Falter in den Schatten und kühlen sich durch Flügelschlag.[12]
+
+Überwinterung
+Schmetterlinge, die in Klimazonen leben, in denen es kalte Jahreszeiten gibt, müssen überwintern. Als Imago tun dies z. B. der Zitronenfalter (Gonepteryx rhamni) oder das Tagpfauenauge (Inachis io). Sie verstecken sich in hohlen Bäumen oder in Tierbauten und verharren dort regungslos. Die meisten Schmetterlinge überwintern aber als Raupe, Puppe oder ungeschlüpft im Ei. Manche Raupen erwachen sogar an sehr warmen Wintertagen und fressen, bevor sie wieder in die Winterstarre fallen. Ebenso unterbrechen manche Falter an warmen Tagen ihre Winterstarre und fliegen umher, wobei nicht unbedingt Nahrung aufgenommen werden muss. Je nach Region benötigen die Raupen oder Puppen mehr als eine Überwinterung um ihre Entwicklung zu vollenden. Dies ist beispielsweise im Hochgebirge der Fall, etwa bei Parnassius-Arten.
+
+Wanderungen
+Einige Schmetterlingsarten legen lange Wanderungen zurück; sie werden als Wanderfalter bezeichnet. Dieses Verhalten ist z. B. von über 200 tropischen Arten bekannt. Besonders gut erforscht ist der Monarchfalter (Danaus plexippus), der für seine Massenwanderungen in Nordamerika über Tausende von Kilometern bekannt ist, und der Distelfalter (Vanessa cardui), der in vielen Teilen der Erde wandert, so auch von Nordafrika nach Europa. Distelfalter können oft im Abstand von wenigen Sekunden gesichtet werden, wie sie in der gleichen Richtung über die Alpen oder die offene Landschaft fliegen.[16]
+
+In Europa sind viele Arten nördlich der Alpen nicht bodenständig, das bedeutet, dass sie nicht dauerhaft überleben können und jedes Jahr erneut einwandern. Beispiele hierfür sind neben dem Distelfalter das Taubenschwänzchen (Macroglossum stellatarum) und der Admiral. Sie fliegen im Frühjahr aus ihren Lebensräumen in Südeuropa und Nordafrika nach Norden; teilweise überqueren sie dabei die Alpen. Über den Sommer leben sie in Mitteleuropa und Teilen von Nordeuropa. Sie bilden hier sogar neue Generationen. Naht der Winter, fliegen die meisten wieder zurück in den Süden. Manche Exemplare versuchen zu überwintern und überleben in milden Wintern oder in besonders geschützten Verstecken.
+
+Der Grund der Wanderungen ist nicht hinreichend geklärt, da die allermeisten Tiere den Winter nicht überleben können. Nahe liegt eine Strategie zur zufälligen Arealerweiterung, ursächlich ist zumindest auch ein Verdorren von Nektarpflanzen im Mittelmeerraum im Sommer. Möglich ist auch, dass die Wanderfalter noch einem Verhaltensatavismus folgen, also noch auf andere klimatische Bedingungen geprägt sind.[12]
+
+Fortpflanzung und Entwicklung
+Ursprüngliche Insekten verändern ihre Gestalt während ihres Lebens nicht, sie werden nur größer und müssen sich deswegen häuten. Bei Schmetterlingen ändert die Metamorphose das Aussehen grundlegend. Sie wird hier vollständige Metamorphose genannt, denn neben dem Larvenstadium gibt es noch ein weiteres, nämlich das der Puppe. Somit haben die Schmetterlinge vier Entwicklungsstadien: Ei, Raupe, Puppe und Falter.
+
+Balzverhalten
+Die Balz ist ein sehr streng eingehaltenes Ritual. Sie beginnt normalerweise mit einem besonderen Flug und setzt sich am Boden durch das Umschreiten des Weibchens fort. Während des Fluges berühren sich oft die Flügel des Pärchens oder das Weibchen berührt mit ihren Fühlern die Flügel des Männchens. Die Paarungswilligkeit der Partner wird durch Duftstoffe verstärkt. Die männlichen wirken nur auf kurze Distanz, aber besonders die Nachtfalterweibchen locken die Männchen über große Entfernungen. Mit der Balz einher geht das Territorialverhalten der Männchen. Je nach Art werden bestimmte Bereiche wie beispielsweise Baumkronen und Hügelkuppen („Gipfelbalz“), Wegabschnitte oder kleine unbewachsene Stellen verteidigt.[12]
+
+
+Hauhechel-Bläulinge bei der Paarung
+Paarung
+Nachdem das Weibchen die Spermatophore des Männchens empfangen hat, gelangt diese in eine Blase (Bursa copulatrix), aus der schließlich die Spermien in die Samenblase gelangen, in der sie oft für längere Zeit gelagert werden. Befruchtet werden die Eier erst während der Eiablage, bei der sie an der Öffnung der Samenblase vorbei gleiten. Bei manchen Schmetterlingsarten kann das Weibchen seine Eier auch ohne das Männchen befruchten (Parthenogenese).[11]
+
+Ei und Eiablage
+
+Weibchen des Hartheu-Spanners (Siona lineata) bei der Eiablage
+
+Gelege des Baum-Weißlings (Aporia crataegi)
+Die Eier der Schmetterlinge gehören zu den komplexesten der Insekten. Es gibt eine ungeheure Formenvielfalt die zwischen schmal spindelförmig, oval, kugelig, halbkugelig, linsenförmig und flach zylindrisch variiert. Dazu kommen verschiedene Oberflächenstrukturen, die die harte Eischale (Chorion) oft bizarr aussehen lassen. Nur selten sind die Eier glatt. Es gibt gerippte, eingedellte, sternförmige, mit verschiedensten Ornamenten versehene, behaarte und gezackte Eier. Das Muster ist grundsätzlich regelmäßig. Man unterscheidet zwei Haupttypen von Eiern: flache und aufrechte Eier. Bei ersteren befindet sich die nabelförmige Ausbuchtung (Mikropyle), durch die das Spermium bei der Befruchtung in die Eizelle eindringt, an der Oberseite, bei den aufrechten Eiern ist die Mikropyle auf der Rückseite (dorsal). Die meisten Schmetterlingsarten haben Eier des zweiten Typs. Die Sauerstoff­zufuhr erfolgt durch Poren (Aeropylen), im Ei befinden sich aber selbst Kammern, die mit Luft gefüllt sind.[22] Die Größe der Eier variiert zwischen 0,5 und 2 Millimetern. Auch die Färbung der Eier könnte vielseitiger nicht sein. Vor allem variiert die Farbe während der Entwicklung, was meist darauf beruht, dass man die Färbung der heranwachsenden Raupe durch die leicht durchscheinenden Eischalen erkennen kann. Die meisten Eier sind anfangs hell und verdunkeln sich bis zum Schlüpfen der Raupe zu einem schwarz oder dunkelblau.[11]
+
+Die Eiablage ist je nach Art sehr verschieden. Sie ist auch an die Form und Farbe der Eier angepasst. Die meisten Schmetterlinge legen ihre Eier einzeln, paarweise oder in kleinen und größeren Gruppen ab. Manche legen ihren gesamten Eivorrat an eine einzige Position. Gelegt werden je nach Art 20 bis über 1.000 Eier Sie werden in der Regel mit einer klebrigen Substanz an der Unterlage befestigt. Angeordnet werden diese entweder ungeordnet in ein oder mehrschichtigen Gelegen oder regelmäßig in Eispiegeln nebeneinander oder ringförmig um Pflanzenteile bzw. Stängel. Sie können auch durch Haare des Afterbusches bedeckt sein, die das Weibchen abstreift und mit einem Sekret an die Eier klebt. Dadurch sind sie besser gegenüber Fressfeinden getarnt. Manche Arten lassen ihre Eier aber auch nur wahllos auf den Boden fallen. Gelegt wird meistens auf der entsprechenden Futterpflanze, damit die Raupen schon nach dem Schlüpfen Nahrung vorfinden. Es gibt aber auch Arten, die ihre Eier wahllos auf nicht geeigneten Pflanzen verteilen. Die Raupen schlüpfen in der Regel nach zwei bis drei Wochen, dies ist aber auch schon nach weniger als einer Woche möglich. Wenn die Eier überwintern, was bei vielen Arten vorkommt, schlüpfen die Raupen mitunter erst nach einem halben Jahr. Ihre erste Entwicklung ist dann meist schon vor dem Winter abgeschlossen, lediglich das Schlüpfen wird hinausgezögert.[11] Nach dem Schlüpfen fressen viele Arten als erstes die Eischale. Vermutlich dient dies dazu, neben Nährstoffen lebenswichtige Mikroorganismen aufzunehmen, die von der Mutter an das Ei übergeben wurden.[22]
+
+Raupe
+
+Raupe eines Spanners
+
+Raupe des Schlehen-Bürstenspinners
+Die Raupen führen meist ein verstecktes Leben und sind auch gut an ihre Umgebung angepasst. Sie haben meist eine grüne oder braune Färbung. Die Raupen der Schwärmer gehören zu den größten in Europa. Sie können eine Länge von 15 Zentimetern erreichen. Manche Raupen spinnen die Blätter der Nahrungspflanzen zusammen, wie etwa beim Admiral, oder sie rollen ein Blatt zusammen und fressen diese Röhre von innen auf, wie es viele Wickler (Tortricidae) machen, wodurch diese Familie ihren Namen erhalten hat.
+
+Bei manchen Arten kann man ein Sozialverhalten beobachten. Die Raupen der Prozessionsspinner (Thaumetopoeidae) etwa leben in großen Gespinsten miteinander und bewegen sich gemeinsam in langen „Prozessionen“ zu ihren Nahrungsquellen.
+
+Puppe
+
+Verpuppung eines Tagpfauenauges in 60-Sekunden-Schritten
+
+Puppe des Ulmen-Harlekin
+Ist die Raupe erwachsen, beginnt sie mit der Verpuppung, indem sie sich zum letzten Mal häutet. Danach findet die Metamorphose zum Schmetterling statt. Dabei werden die Raupenorgane abgebaut oder umgeformt und zu Falterorganen umgebildet und auch die gesamte äußere Gestalt der Tiere ändert sich. Die Puppen der Schmetterlinge sind grundsätzlich Mumienpuppen. Das heißt, dass alle Körperanhänge (Fühler, Beinanlagen und Flügelscheiden) mit einem Kitt an den Körper geklebt werden. Lediglich die Urmotten (Micropterigidae) haben freie Puppen, bei denen die Gliedmaßen nicht verklebt sind. Die drei Körperabschnitte sind bei den Mumienpuppen nur schwer, aber die Körperanhänge und der Kopf gut zu erkennen. Die Puppe ist fast unbeweglich. Sie kann nur den Hinterleib seitwärts schwingen und rollende Bewegungen ausführen. Manche (z. B. Glasflügler (Sesiidae) und Holzbohrer (Cossidae)) besitzen an den Hinterleibssegmenten Dornen, mit denen sie sich in ihren Fraßgängen im Holz zur Öffnung nach vorn arbeiten können, um nach dem Schlupf leichter ins Freie zu gelangen. Bei den primitiveren Familien können aber auch die Körperanhänge leicht bewegt werden.
+
+Bei den unter den Tagfaltern zusammengefassten Schmetterlingsfamilien werden zwei Typen von Puppen nach der Art der Befestigung an der Unterlage unterschieden. Die einen werden Stürzpuppen, die anderen Gürtelpuppen genannt. Stürzpuppen hängen frei baumelnd mit Häkchen an einer Gespinstverankerung, die mit der Unterlage befestigt ist, nach unten. Gürtelpuppen sind durch einen Gespinstfaden, der wie ein Gürtel um die Körpermitte gesponnen ist, mit einem Zweig oder ähnlichem verbunden. Zusätzlich sind diese Puppen aber wie die ersten mit einem Gespinstpolster an der Unterseite verankert, aber diese hängen meistens nicht nach unten, sondern sind durch den Gespinstfaden nach oben befestigt. Dieser Typ wird aber auch bei anderen Schmetterlingsarten verwendet. Die Puppen der übrigen Schmetterlingsfamilien verpuppen sich entweder frei am Boden oder in einem mehr oder weniger fest gesponnenen Gespinst aus Seide. Dieses wird Kokon genannt. Die Seide wird aus speziellen Spinndrüsen, die sich auf der Unterlippe befinden, hergestellt. Damit der fertige Falter seine zuweilen sehr feste Puppe wieder verlassen kann, sind Vorkehrungen notwendig. Entweder wird ein runder Deckel vorgesehen, der dann von innen aufgestoßen wird, oder eine Reuse erlaubt es dem Falter hinauszukriechen, ohne dass ungebetene Gäste durch diese eindringen können. Dies ist z. B. beim Kleinen Nachtpfauenauge (Saturnia pavonia) der Fall. Andere Arten sondern aus der Mundöffnung eine Flüssigkeit aus, die den Kokon aufweicht.
+
+Weil bei manchen Arten (vor allem bei Tagfaltern) die Puppen ohne ein schützendes Gespinst gebildet werden und deswegen sehr empfindlich sind, müssen sie eine gute Tarnung aufweisen. Sie können nicht, wie die Arten mit Gespinst, darauf vertrauen, dass Feinde wegen der zähen und schwer zu durchdringenden Außenhaut von ihrer Attacke ablassen. Daher sind die schutzlosen Puppen oft perfekt wie frische oder vertrocknete Blätter getarnt. Manche Puppen können sogar zirpende Geräusche von sich geben, um Fressfeinde zu verwirren.
+
+Die Puppenphase (sog. Puppenruhe) dauert meist zwei bis vier Wochen. Manche Arten überwintern aber als Puppe. Hier entwickeln sich die Falter schon vor dem Winter, schlüpfen aber erst im Frühling. Manchmal ruhen die Falter in den Puppen länger als einen Winter. So können die Frühlings-Wollafter (Eriogaster lanestris) bis zu sieben Jahre in ihrer Puppe verharren, bevor sie schlüpfen.
+
+Der Seidenspinner (Bombyx mori) liefert wohl das bekannteste Beispiel eines Kokons, denn aus ihm wird Seide hergestellt. Der Kokon besteht aus einem einzigen, über 500 Meter langen Faden, der maschinell ab- und wieder auf Spulen aufgewickelt wird.
+
+Schlupf
+Datei:Schlupf Inachis io (HS).ogv
+schlüpfendes Tagpfauenauge. Die Geschwindigkeit des Films ist originalgetreu.
+Erreicht die Puppe das Endstadium ihrer Entwicklung, ist sie sichtlich dunkler gefärbt und oft kann man die Flügelzeichnung durch die Puppenhülle erkennen. Die Puppe platzt an vorgegebenen Nähten auf und der Falter schlüpft. Bei Kokons verlässt der Falter entweder durch einen vorgesehenen Deckel das Gespinst oder er zwängt sich nach draußen. Danach beginnt er Luft in den Körper zu pumpen, um die Puppenhülle weiter aufplatzen zu lassen. Danach zieht er den Körper aus der Hülle und klammert sich mit den Beinen außen fest. Die Flügel hängen noch schlaff vom Körper, sie werden aufgepumpt, indem die Falter Blut in die noch leeren Adern pumpen. Sind die Flügel zur vollen Größe ausgefaltet, haben sie sich gleichzeitig geglättet. Nach der Entfaltung verlieren die Flügeladern ihre Funktion, indem sie ebenfalls mit eintrocknen. Während die Flügel trocknen, scheidet der Falter Stoffwechselprodukte der Puppenzeit in Form eines roten Tropfens (Mekonium) aus. Danach startet der Falter schließlich zu seinem ersten Flug. Er kann sich paaren, mit der neuen Eiablage vollendet sich der Lebenszyklus.
+
+Die Lebensdauer der Falter variiert stark. Sie beträgt nur einen einzigen Tag bei Echten Sackträgern (Psychidae), kann aber auch inklusive Ruhephasen bis zu zehn Monaten dauern, wie beispielsweise beim Zitronenfalter (Gonepteryx rhamni). Falter, die Nahrung aufnehmen, leben verständlicherweise länger als solche, deren Mundwerkzeuge verkümmert sind. Das Durchschnittsalter von Tagfaltern beträgt zwei bis drei Wochen.
+
+Natürliche Feinde
+Die Falter und insbesondere auch die Raupen sind unzähligen Fressfeinden ausgesetzt. Hauptfeinde von Imagines und Raupen sind wohl weltweit insektenfressende Vögel. Wie stark der Prädationsdruck durch Vögel ist, zeigen die zahllosen Anpassungen der Schmetterlinge an optisch jagende Räuber, wie Mimikry, Tarnfärbungen, Augenflecken usw. (s. o.). In Europa leben zum Beispiel Meisen zur Brutzeit weit überwiegend von Raupen und ziehen mit diesen auch ihre Jungen auf. Einige Vogelarten wie Kuckucke haben sich auf langhaarige Raupen spezialisiert, die von anderen Vögeln gemieden werden.
+
+Nur wenige Vogelarten jagen Nachtfalter, z. B. die Ziegenmelker. Hauptfeind nachtaktiver Schmetterlinge sind Fledermäuse. Auch hier sind im Rahmen eines „evolutionären Wettlaufes“ zahlreiche evolutionäre Anpassungen von Nachtfaltern an ihre Hauptfeinde entstanden, z. B. die Fähigkeit, Ultraschalllaute zu hören oder selbst welche auszustoßen.
+
+Daneben werden Imagines wie Raupen von zahlreichen insektenfressenden Wirbeltier- und Wirbellosenarten erbeutet.
+

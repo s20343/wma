@@ -1,0 +1,69 @@
+Co pewien czas pojawiają się nowe tryby gier, których założenia są całkowicie odmienne od standardowej rozgrywki. Przykładem takiego trybu może być Ultra Rapid Fire, gdzie czas odnowienia umiejętności jest zredukowany o 80%[19] lub tryb Nexus Blitz z różnymi wydarzeniami oraz czasem rozgrywki wynoszącym 20 minut[20]. Oprócz nich historycznie występowały np. Niszczące Boty Zagłady[21], Odyseja: Wydobycie[22], Wyniesienie[23] czy Polowanie Krwawego Księżyca[24]. Do 2019 roku dostępnym trybem rankingowym było Twisted Treeline[25], gdzie rozgrywka była dostępna dla drużyn trzyosobowych, a do 2016 dostępna była mapa Dominion.
+W przypadku rozpoczynania gry ze znajomymi w poczekalni, aby wyszukiwanie meczu było możliwe, rangi członków poczekalni muszą być do siebie odpowiednio zbliżone (maksymalny przedział: 5 rang w górę i w dół)[56]. Ograniczenie to nie obowiązuje, jeśli w poczekalni znajduje się pełny, 5-osobowy skład drużyny[56]. Nieaktywność w trybie „Turniejowym” powoduje wygaśnięcie (ukrycie) rangi. Aby ponownie wyświetlić rangę, należy wygrać lub zremisować jeden mecz[56]. Ranga po okresie nieaktywności zostaje odpowiednio skalibrowana. Ograniczeniami wyszukiwania gier objęte są dodatkowo osoby, które nie posiadają jeszcze rangi lub ich ranga wygasła – nie mogą rozpocząć meczu w poczekalni z graczami o randze powyżej „Mistrzowskiego obrońcy I”[56].
+
+Opuszczenie meczu turniejowego przed jego zakończeniem powoduje nałożenie na gracza tymczasowej blokady („turniejowa kara czasowa”, ang. Competitive Cooldown), uniemożliwiającej rozgrywanie meczów turniejowych przez określony czas[60]. Podobne kary nakładane są za umyślne przeszkadzanie sojusznikom, za nadużywanie systemu wyrzucania graczy, wyrzucenie zbyt dużej liczby graczy z meczu, a także za bycie wyrzuconym ze zbyt wielu gier[60].
+
+Uproszczony
+Tryb „Uproszczony” korzysta z uproszczonych zasad klasycznych meczów turniejowych, m.in. skrócenie meczu do 15 rund, wyłączony bratobójczy ogień, włączone przenikanie postaci gracza przez sojuszników, zwiększona ilość graczy w drużynach. Gracze otrzymują bezpłatny pancerz i hełm na początku każdej rundy, a antyterroryści – także zestaw do rozbrajania (lub zestawu ratunkowy)[61]. Zadania drużyn pozostają takie same jak w meczach turniejowych.
+
+Deathmatch
+W tryb „Deathmatch” wszystkie bronie dostępne w grze są darmowe, postać gracza natychmiast odradza się po śmierci, a celem gracza jest eliminacja jak największej liczby graczy drużyny przeciwnej w ciągu 10 minut. Tryby te używane są głównie do treningu[62][63].
+
+Gry wojenne: Wyścig zbrojeń, Demolka, Latający skaut
+W trybie „Wyścig zbrojeń” zabijanie przeciwników daje graczowi lepszą broń. Dokonanie zabójstwa z użyciem ostatniej dostępnej broni, złotego noża, daje graczowi zwycięstwo. W tym trybie nie jest możliwy zakup broni, a gracz odradza się natychmiast po swojej śmierci[17]. W trybie „Demolka” rozgrywka prowadzona jest na zmniejszonych mapach na standardowych zasadach gry. Zabicie przeciwnika daje graczowi lepszą broń w kolejnej rundzie[17]. W trybie „Latający skaut” gracze grają na standardowych zasadach na mapach o zmniejszonej grawitacji, wyposażeni jedynie w karabin SSG 08 oraz nóż. Tryby „Wyścig zbrojeń”, „Demolka” oraz „Latający skaut” zostały przez wydawcę nazwane „Gry wojenne” i umieszczone w odrębnej zakładce[45].
+
+Skrzydłowy
+W trybie „Skrzydłowy”, dodanym w aktualizacji w 2017 roku, w 16-rundowych meczach ze scenariuszem zamachu bombowego na niewielkich mapach walczą ze sobą dwie dwuosobowe drużyny[64]. Mecze rozegrane w tym trybie wpływają na odrębną rangę trybu „Skrzydłowego”, reprezentującą umiejętności gracza i wpływającą, podobnie jak w trybie „Turniejowym”, na dobór przeciwników[45]. Podobnie jak w przypadku trybu „Turniejowego”, na trybie „Skrzydłowy” występuje 18 rang od „Srebra I” do „Elity światowej”[65]:
+
+Srebro I (ang. Silver I)
+Srebro II (ang. Silver II)
+Srebro III (ang. Silver III)
+Srebro IV (ang. Silver IV)
+Elitarne srebro (ang. Silver Elite)
+Mistrzowskie elitarne srebro (ang. Silver Elite Master)
+Złoty laur I (ang. Gold Nova I)
+Złoty laur II (ang. Gold Nova II)
+Złoty laur III (ang. Gold Nova III)
+Mistrzowski złoty laur (ang. Gold Nova Master)
+Mistrzowski obrońca I (ang. Master Guardian I)
+Mistrzowski obrońca II (ang. Master Guardian II)
+Elitarny mistrzowski obrońca (ang. Master Guardian Elite)
+Wybitny mistrzowski obrońca (ang. Distinguished Master Guardian)
+Legendarny orzeł (ang. Legendary Eagle)
+Mistrzowski legendarny orzeł (ang. Legendary Eagle Master)
+Mistrzowska pierwsza klasa (ang. Supreme Master First Class)
+Elita światowa (ang. The Global Elite)
+Podobnie jak w trybie „Turniejowym”, ranga przydzielana jest graczowi po wygraniu 10 rozgrywek[66]. Skuteczność gracza w każdym kolejnym meczu oraz jego końcowy wynik decyduje o awansie lub degradacji z rangi. Nieaktywność w trybie „Skrzydłowy” powoduje wygaśnięcie (ukrycie) rangi. Aby ponownie ją wyświetlić, należy wygrać lub zremisować jeden mecz; ranga zostaje wówczas odpowiednio skalibrowana.
+
+Strefa zagrożenia
+W grudniu 2018 do gry dodano tryb battle royale o nazwie „Strefa zagrożenia” (ang. Danger Zone), w którym można grać samodzielnie oraz w dwu- lub trzyosobowych drużynach[67][68]. W meczu bierze udział maksymalnie 18 osób[69]. Gracze wybierają przed rozpoczęciem gry miejsce zrzutu ze śmigłowca oraz przedmiot startowy. Dodatkowe wyposażenie, takie jak broń, amunicja, zastrzyki wzmacniające lub pancerz zdobyć można przeszukując miejsca na mapie lub wykonując zadania[69]. Możliwe jest również zamówienie przedmiotów przy użyciu tabletu, za pieniądze zebrane w czasie eksploracji mapy. Wybrane przedmioty dostarczają drony[69].
+
+Zwycięzcą gry jest gracz lub drużyna, która jako ostatnia utrzyma się przy życiu. W lipcu 2019 roku do trybu „Strefa zagrożenia” wprowadzono odrębny system rankingowy, w którym wyróżnia się 15 rang (o nazwach i ikonach zupełnie odmiennych niż w pozostałych dwóch trybach – od rangi „Szczur laboratoryjny I” do rangi „Wyjący alfa”)[70]:
+
+Szczur laboratoryjny I (ang. Lab Rat I)
+Szczur laboratoryjny II (ang. Lab Rat II)
+Biegnący zając I (ang. Sprinting Hare I)
+Biegnący zając II (ang. Sprinting Hare II)
+Dziki skaut I (ang. Wild Scout I)
+Dziki skaut II (ang. Wild Scout II)
+Elitarny dziki skaut (ang. Wild Scout Elite)
+Lis łowca I (ang. Hunter Fox I)
+Lis łowca II (ang. Hunter Fox II)
+Lis łowca III (ang. Hunter Fox III)
+Elitarny lis łowca (ang. Hunter Fox Elite)
+Wilk szary (ang. Timber Wolf)
+Wilk żaru (ang. Ember Wolf)
+Wilk ognia (ang. Wildfire Wolf)
+Wyjący alfa (ang. The Howling Alpha)
+O awansie lub degradacji z rangi decyduje skuteczność gracza lub drużyny w meczach. Gracze mogą wyszukiwać gry swobodnie, bez względu na posiadaną rangę[71].
+
+Matchmaking
+VAC oraz Nadzór
+Oficjalny system matchmaking wykorzystuje system Valve Anti-Cheat (VAC) celem eliminowania graczy korzystających z oszustw, tj. oprogramowania zwiększającego przewagę nad przeciwnikami (np. widzenie przez ściany – tzw. „wallhack”, poprawianie celności – tzw. „aimhack”). Oszukiwanie na serwerach chronionych systemem VAC skutkuje permanentną blokadą i zablokowaniem ekwipunku (sprzedaż ani kupno przedmiotów nie są możliwe). Blokady VAC nie podlegają dyskusji i są nakładane w sposób automatyczny[72].
+
+Ponadto, zgłoszeni w meczach podejrzani o oszukiwanie lub umyślne przeszkadzanie gracze trafiają do systemu „Nadzoru” (ang. Overwatch). W systemie „Nadzoru” gracze spełniający określone wymogi (odpowiedni staż w grze, duża ilość zwycięstw w meczach turniejowych, odpowiednio wysoka ranga) oceniają nagrania z meczów i decydują o zablokowaniu podejrzanego gracza[73]. W przypadku stwierdzenia uporczywego przeszkadzania sojusznikom w rozgrywce, podejrzany może otrzymać blokadę na okres 30 dni, a w przypadku stosowania niedozwolonych wspomagaczy zwiększających przewagę nad przeciwnikiem – blokadę permanentną[73]. Konsekwencje blokady permanentnej są zbliżone do konsekwencji otrzymania automatycznej blokady VAC.
+
+Konto Prime i Trust Factor
+Gracze, którzy kupią w Steam lub osiągną 21 stopień profilu otrzymują wersję konta „Prime”[74]. Otrzymali go także gracze posiadający grę przed przejściem na model free-to-play[75]. Wyszukiwanie meczów w trybie „Prime” wyszukuje wyłącznie graczy z tym statusem konta[74] (wyjątek stanowi sytuacja, gdy wyszukujemy mecz ze znajomym, który nie posiada statusu „Prime”.). Zastosowanie tego systemu miało na celu poprawienie jakości rozgrywki przez zmniejszenie liczby cheaterów oraz smurfów (tj. graczy o wysokim poziomie umiejętności, którzy celowo prowadzą rozgrywkę na meczach turniejowych z wykorzystaniem kont ze zbyt niską rangą).
+
+W 2017 roku Valve rozpoczęło wdrażanie nowego systemu wyszukiwania gier, opartego o tzw. „czynnik zaufania” (ang. Trust Factor)[76]. Nowy system nie wymaga posiadania wysokiego poziomu doświadczenia i wyszukuje mecze z graczami o podobnym czynniku zaufania. Na czynnik składa się wiele elementów związanych z doświadczeniem gracza w CS:GO oraz w innych grach i aktywnościach na jego koncie Steam. Posiadanie wcześniej statusu „Prime” jest dodatkowym atutem. W trybach wykorzystujących rangi umiejętności (tj. „Turniejowy” i „Skrzydłowy”) oprócz „Prime” i czynnika zaufania na wyszukiwanie gier wpływają rangi reprezentujące umiejętności gracza.

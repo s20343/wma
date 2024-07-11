@@ -1,0 +1,110 @@
+W League of Legends dla wszystkich graczy, którzy osiągnęli odpowiedni poziom oraz odblokowali określoną liczbę bohaterów w grze, dostępna jest drabinka rankingowa. Gracze podzieleni są na ligi i dywizje w zależności od swoich wyników. Możliwe jest branie udziału w rozgrywkach rankingowych pojedynczo lub wraz z zespołem (pozostałe osoby dobierane są losowo wśród graczy o podobnym poziomie). Gry można rozgrywać w dwóch kolejkach: solo-duet (o podobnym poziomie umiejętności) oraz elastycznej (przeznaczona dla grup o różnych rangach, z wyjątkiem czteroosobowych). Na koniec każdego sezonu przyznawane są nagrody zależne od aktualnej ligi i dywizji[16]. Rozgrywka zawsze rozpoczyna się draftem, a w samych w założeniach nie różni się niczym od zwykłych meczy. Poza nagrodami w grze, najlepsi gracze mogą też liczyć na fizyczne nagrody np. w 2016 roku Riot Games przygotował kurtki dla graczy z najwyższej ligi[17]. W 2019 roku zmieniono system rankingowy, dodając ligę na samym dole tabeli z przeznaczeniem dla początkujących graczy, oraz rozwarstwiono najwyższe dywizje, dodając rangę arcymistrza. Obecnie drogę rankingową przechodzi się przez żelazo, brąz, srebro, złoto, platynę, diament, mistrza, arcymistrza do pretendenta.
+Odmiennym od powyższych trybów jest ARAM. Został wprowadzony w 2013 roku i od lat jest jednym z najpopularniejszych trybów gry. Odbywa się na mapie Howling Abyss, gdzie jest tylko jedna, środkowa linia. W przeciwieństwie do rozgrywki na Summoner's Rift, nie obowiązuje tutaj proces wyboru postaci, a gracz dostaje narzuconą postać z dostępnych dla niego. Może się jednak wymieniać z innymi graczami oraz skorzystać z paska wymiany. Rozgrywka jest o wiele szybsza, a żeby kupić nowe przedmioty za złoto (którego dostaje się dużo biernie) trzeba uśmiercić swojego bohatera. Średnia długość meczy wynosi od 10 do 30 minut.
+Tryb battle royale, przejście na model F2P
+W sierpniu 2018 do testowania na serwerach deathmatch oraz na trybie uproszczonym dodano pistolet maszynowy, MP5-SD, który pojawił się we wcześniejszych edycjach gry Counter-Strike[131]. Broń ta może być wykorzystywana zamiast pistoletu maszynowego MP7[131]. 7 grudnia 2018 do gry dodano tryb battle royale o nazwie Danger Zone (pol. Strefa zagrożenia), w którym można grać samodzielnie oraz w dwu- lub trzyosobowych drużynach[67][68].
+
+Ponadto gra od tej aktualizacji przeszła na model free to play[67]. Osoby, które do 6 grudnia 2018 zakupiły grę za nieco ponad 50 zł otrzymały odznakę lojalności oraz status Prime[132]. Od teraz status Prime można nie tylko zdobyć uzyskując 21 poziom konta, ale także kupując go w sklepie Steam (za podobną cenę, za jaką grę sprzedawano wcześniej).
+
+Mając status Prime gracz nie tylko ma mniejszą szansę na grę ze smurfami oraz osobami używającymi cheatów, ale również ma szansę otrzymania pamiątkowych przedmiotów oraz możliwość uzyskiwania dropów przedmiotów i skrzyń po meczach (dostępnych od teraz tylko dla graczy ze statusem Prime)[133][29]. Po przejściu na model F2P CS:GO odnotowało duży przyrost liczby graczy[134].
+
+22 lipca 2019 roku tryb battle royale rozbudowano o system rankingowy, niezależny od rang w trybie „Turniejowy” i „Skrzydłowy”[70]. O awansie lub degradacji z rangi decyduje skuteczność gracza lub drużyny w meczach. W trybie „Strefa zagrożenia” wyróżnia się 15 rang (o nazwach i ikonach zupełnie odmiennych niż w pozostałych dwóch trybach – od rangi „Szczur laboratoryjny I” do rangi „Wyjący alfa”)[70]. Z czasem w ramach aktualizacji do trybu battle royale dodano także dodatkowe mapy.
+
+Operacja Shattered Web – battle pass, skórki postaci
+W listopadzie 2019 roku po ponad dwuletniej przerwie, do CS:GO wydano kolejną operację pod nazwą Shattered Web. Nowa operacja różni się zdecydowanie od poprzednio wydanych i do złudzenia przypomina rozwiązania typu „battle pass” (w wolnym tłumaczeniu: „przepustka bitewna”) stosowane w grach takich jak Fortnite lub PlayerUnknown’s Battlegrounds. Kolejne misje są odblokowywane cotygodniowo[135].
+
+Wraz z aktualizacją do gry wprowadzono skórki zmieniające wygląd domyślnych postaci terrorystów i antyterrorystów (tzw. „agenci”)[135]. Z uwagi na zróżnicowane wzory i kolory, uwydatniające lub zmniejszające widoczność graczy na mapach, aktualizacja spotkała się z bardzo negatywną reakcją profesjonalnych graczy oraz lig e-sportowych. Stosowania skinów do postaci szybko zakazały m.in. ligi Faceit, ESL oraz ESEA[136].
+
+Promocja
+
+Myszka SteelSeries Rival 300 Fade, element promocji Counter-Strike: Global Offensive. Obudowę myszki pomalowano w kolor przypominający jedną ze skórek broni w świecie gry
+Od premiery gry, CS:GO wpłynęło na pojawienie się różnych akcesoriów promocyjnych. Dostępny jest oficjalny sklep, oferujący przedmioty kolekcjonerskie, w tym rzeczywistą wersję elektronicznego medalu „Odznaka pięcioletniego weterana”[137]. Firmy takie jak SteelSeries nawiązały współpracę z Valve celem promowania prawdziwych akcesoriów komputerowych, w tym zestawów słuchawkowych, myszek oraz podkładek[138].
+
+Hazard
+W sierpniu 2013 roku, w wyniku aktualizacji „Arms Deal”, do gry dodano wirtualne skrzynki zawierające wykończenia do broni w grze (tzw. „skórki”, „skiny”, ang. skins)[85][86]. Początkowym założeniem aktualizacji było wspieranie turniejów e-sportowych sponsorowanych przez wydawcę („majorów”)[86]. Przedmioty te stworzyły wirtualny system ekonomiczny, wynikający między innymi z rzadkości występowania przedmiotów w wirtualnych kontenerach oraz ich atrakcyjności wizualnej.
+
+Reperkusją wprowadzenia obiegu takich przedmiotów było powstanie ogromnej liczby stron nimi handlujących, które wykorzystują API Steamworks. Część z tych stron zaczęła oferować także funkcje hazardowe, takie jak wirtualna ruletka, czy też obstawianie meczów profesjonalnych graczy CS:GO, gdzie walutą są elektroniczne przedmioty z gry lub kredyty pozyskane na skutek ich zdeponowania. W czerwcu i lipcu 2016 roku złożono dwa oficjalne pozwy przeciwko takim witrynom hazardowym oraz firmie Valve, stwierdzając, że propagują one hazard wśród nieletnich. Valve z kolei zaczęło podejmować kroki, celem uniemożliwienia tym stronom korzystania ze Steamworks w celach hazardowych, na skutek czego kilka z nich przestało działać[87]. 29 marca 2018 roku, Valve ograniczyło ten proceder, wprowadzając siedmiodniową blokadę na wymieniane przedmioty (tzn. po ich otrzymaniu, nie można ich było przekazać dalej przez kolejne 7 dni)[139]. Sprawiło to, że w magazynach wielu stron typu hazardowego zabrakło przedmiotów, ale uderzyło również w strony i osoby fizyczne, które w sposób legalny zarabiają na handlowaniu skórkami[140]. Valve stwierdziło, że wprowadzona restrykcja ma na celu uniemożliwienie oszukiwania w wymianach poprzez platformę Steam[141].
+
+Istnieją jednak również zarzuty, według których zastosowany w CS:GO mechanizm płatnego odblokowywania skrzynek zawierających losowy przedmiot (bardzo często o dużo niższej wartości niż cena wirtualnego klucza otwierającego skrzynkę) stanowi już hazard sam w sobie. Zdaniem polskiego Ministerstwa Finansów, płatne skrzynki pojawiające się w grach komputerowych nie wypełniają przesłanek żadnej z gier hazardowych wskazanych w Ustawie z dnia 19 listopada 2009 r. o grach hazardowych[142]. Ograniczenia w legalności loot boxów we Francji Valve obeszło wprowadzając specjalny przedmiot (nazywany „rentgenem” lub „skanerem”), umożliwiający wcześniejsze sprawdzenie zawartości danej skrzynki. Jednak aby móc użyć skanera ponownie na kolejnej skrzyni, należy zatwierdzić przedmiot ze skrzyni skanowanej poprzednio (co w praktyce nie zmienia mechanizmu otwierania boxów)[143].
+
+Zawodowa rywalizacja
+ Zobacz też kategorię: Turnieje w Counter-Strike: Global Offensive.
+Turnieje rangi „major”
+w Counter-Strike: Global Offensive
+Ilustracja
+Turniej ESL One Katowice 2015
+Dyscyplina	Counter-Strike:
+Global Offensive
+Data założenia	28–30 listopada 2013
+Partner TV	Twitch, Steam.tv, YouTube
+Sponsor tytularny	Valve Corporation
+Rozgrywki
+Liczba drużyn	16 (2013–2017)
+24 (od 2018)
+Zwycięzcy
+Pierwszy zwycięzca	Szwecja Fnatic
+(2013)
+Obecny zwycięzca	Ukraina Natus Vincere
+(2021)
+Najwięcej zwycięstw	Dania Astralis
+(4 zwycięstwa)
+Zawodowa rywalizacja w Counter-Strike: Global Offensive składa się na rozmaite turnieje organizowane przez organizacje trzecie oraz oficjalne mistrzostwa świata sponsorowane przez wydawcę, Valve, nazywane „majorami”. Majory mają większą pulę wygranych, początkowo wynoszącą 250 000 USD[144], a od turnieju MLG Columbus 2016 – 1 mln USD[145][146].
+
+Główną platformą, na której odbywają się transmisje z turniejów jest Twitch, jednak wraz z rozwojem popularności gry oraz jej sceny e-sportowej, różne firmy zainteresowały się także transmisją telewizyjną zawodowych rozgrywek w CS:GO. Transmisje z zawodów transmitowane były m.in. w amerykańskiej telewizji TBS[147]. Rozgrywki podczas majora w Atlancie w 2017 roku były transmitowane również wraz z komentarzem m.in. w polskiej stacji telewizyjnej Polsat Sport News[148].
+
+W 2014 roku podczas turnieju „CEVO Professional Season 5” miał miejsce głośny skandal związany z ustawieniem meczu, w którym drużyna iBUYPOWER celowo przegrała spotkanie z drużyną NetcodeGuides, aby zyskać na postawionych zakładach bukmacherskich[149]. Drużyna została zablokowana później przez Valve i do dziś nie ma prawa uczestniczyć w oficjalnych turniejach rangi „major”. W 2017 roku została dopuszczona do turniejów nieoficjalnych, organizowanych przez ESL.
+
+Lista dotychczasowych turniejów rangi „major”
+Tryb battle royale, przejście na model F2P
+W sierpniu 2018 do testowania na serwerach deathmatch oraz na trybie uproszczonym dodano pistolet maszynowy, MP5-SD, który pojawił się we wcześniejszych edycjach gry Counter-Strike[131]. Broń ta może być wykorzystywana zamiast pistoletu maszynowego MP7[131]. 7 grudnia 2018 do gry dodano tryb battle royale o nazwie Danger Zone (pol. Strefa zagrożenia), w którym można grać samodzielnie oraz w dwu- lub trzyosobowych drużynach[67][68].
+
+Ponadto gra od tej aktualizacji przeszła na model free to play[67]. Osoby, które do 6 grudnia 2018 zakupiły grę za nieco ponad 50 zł otrzymały odznakę lojalności oraz status Prime[132]. Od teraz status Prime można nie tylko zdobyć uzyskując 21 poziom konta, ale także kupując go w sklepie Steam (za podobną cenę, za jaką grę sprzedawano wcześniej).
+
+Mając status Prime gracz nie tylko ma mniejszą szansę na grę ze smurfami oraz osobami używającymi cheatów, ale również ma szansę otrzymania pamiątkowych przedmiotów oraz możliwość uzyskiwania dropów przedmiotów i skrzyń po meczach (dostępnych od teraz tylko dla graczy ze statusem Prime)[133][29]. Po przejściu na model F2P CS:GO odnotowało duży przyrost liczby graczy[134].
+
+22 lipca 2019 roku tryb battle royale rozbudowano o system rankingowy, niezależny od rang w trybie „Turniejowy” i „Skrzydłowy”[70]. O awansie lub degradacji z rangi decyduje skuteczność gracza lub drużyny w meczach. W trybie „Strefa zagrożenia” wyróżnia się 15 rang (o nazwach i ikonach zupełnie odmiennych niż w pozostałych dwóch trybach – od rangi „Szczur laboratoryjny I” do rangi „Wyjący alfa”)[70]. Z czasem w ramach aktualizacji do trybu battle royale dodano także dodatkowe mapy.
+
+Operacja Shattered Web – battle pass, skórki postaci
+W listopadzie 2019 roku po ponad dwuletniej przerwie, do CS:GO wydano kolejną operację pod nazwą Shattered Web. Nowa operacja różni się zdecydowanie od poprzednio wydanych i do złudzenia przypomina rozwiązania typu „battle pass” (w wolnym tłumaczeniu: „przepustka bitewna”) stosowane w grach takich jak Fortnite lub PlayerUnknown’s Battlegrounds. Kolejne misje są odblokowywane cotygodniowo[135].
+
+Wraz z aktualizacją do gry wprowadzono skórki zmieniające wygląd domyślnych postaci terrorystów i antyterrorystów (tzw. „agenci”)[135]. Z uwagi na zróżnicowane wzory i kolory, uwydatniające lub zmniejszające widoczność graczy na mapach, aktualizacja spotkała się z bardzo negatywną reakcją profesjonalnych graczy oraz lig e-sportowych. Stosowania skinów do postaci szybko zakazały m.in. ligi Faceit, ESL oraz ESEA[136].
+
+Promocja
+
+Myszka SteelSeries Rival 300 Fade, element promocji Counter-Strike: Global Offensive. Obudowę myszki pomalowano w kolor przypominający jedną ze skórek broni w świecie gry
+Od premiery gry, CS:GO wpłynęło na pojawienie się różnych akcesoriów promocyjnych. Dostępny jest oficjalny sklep, oferujący przedmioty kolekcjonerskie, w tym rzeczywistą wersję elektronicznego medalu „Odznaka pięcioletniego weterana”[137]. Firmy takie jak SteelSeries nawiązały współpracę z Valve celem promowania prawdziwych akcesoriów komputerowych, w tym zestawów słuchawkowych, myszek oraz podkładek[138].
+
+Hazard
+W sierpniu 2013 roku, w wyniku aktualizacji „Arms Deal”, do gry dodano wirtualne skrzynki zawierające wykończenia do broni w grze (tzw. „skórki”, „skiny”, ang. skins)[85][86]. Początkowym założeniem aktualizacji było wspieranie turniejów e-sportowych sponsorowanych przez wydawcę („majorów”)[86]. Przedmioty te stworzyły wirtualny system ekonomiczny, wynikający między innymi z rzadkości występowania przedmiotów w wirtualnych kontenerach oraz ich atrakcyjności wizualnej.
+
+Reperkusją wprowadzenia obiegu takich przedmiotów było powstanie ogromnej liczby stron nimi handlujących, które wykorzystują API Steamworks. Część z tych stron zaczęła oferować także funkcje hazardowe, takie jak wirtualna ruletka, czy też obstawianie meczów profesjonalnych graczy CS:GO, gdzie walutą są elektroniczne przedmioty z gry lub kredyty pozyskane na skutek ich zdeponowania. W czerwcu i lipcu 2016 roku złożono dwa oficjalne pozwy przeciwko takim witrynom hazardowym oraz firmie Valve, stwierdzając, że propagują one hazard wśród nieletnich. Valve z kolei zaczęło podejmować kroki, celem uniemożliwienia tym stronom korzystania ze Steamworks w celach hazardowych, na skutek czego kilka z nich przestało działać[87]. 29 marca 2018 roku, Valve ograniczyło ten proceder, wprowadzając siedmiodniową blokadę na wymieniane przedmioty (tzn. po ich otrzymaniu, nie można ich było przekazać dalej przez kolejne 7 dni)[139]. Sprawiło to, że w magazynach wielu stron typu hazardowego zabrakło przedmiotów, ale uderzyło również w strony i osoby fizyczne, które w sposób legalny zarabiają na handlowaniu skórkami[140]. Valve stwierdziło, że wprowadzona restrykcja ma na celu uniemożliwienie oszukiwania w wymianach poprzez platformę Steam[141].
+
+Istnieją jednak również zarzuty, według których zastosowany w CS:GO mechanizm płatnego odblokowywania skrzynek zawierających losowy przedmiot (bardzo często o dużo niższej wartości niż cena wirtualnego klucza otwierającego skrzynkę) stanowi już hazard sam w sobie. Zdaniem polskiego Ministerstwa Finansów, płatne skrzynki pojawiające się w grach komputerowych nie wypełniają przesłanek żadnej z gier hazardowych wskazanych w Ustawie z dnia 19 listopada 2009 r. o grach hazardowych[142]. Ograniczenia w legalności loot boxów we Francji Valve obeszło wprowadzając specjalny przedmiot (nazywany „rentgenem” lub „skanerem”), umożliwiający wcześniejsze sprawdzenie zawartości danej skrzynki. Jednak aby móc użyć skanera ponownie na kolejnej skrzyni, należy zatwierdzić przedmiot ze skrzyni skanowanej poprzednio (co w praktyce nie zmienia mechanizmu otwierania boxów)[143].
+
+Zawodowa rywalizacja
+ Zobacz też kategorię: Turnieje w Counter-Strike: Global Offensive.
+Turnieje rangi „major”
+w Counter-Strike: Global Offensive
+Ilustracja
+Turniej ESL One Katowice 2015
+Dyscyplina	Counter-Strike:
+Global Offensive
+Data założenia	28–30 listopada 2013
+Partner TV	Twitch, Steam.tv, YouTube
+Sponsor tytularny	Valve Corporation
+Rozgrywki
+Liczba drużyn	16 (2013–2017)
+24 (od 2018)
+Zwycięzcy
+Pierwszy zwycięzca	Szwecja Fnatic
+(2013)
+Obecny zwycięzca	Ukraina Natus Vincere
+(2021)
+Najwięcej zwycięstw	Dania Astralis
+(4 zwycięstwa)
+Zawodowa rywalizacja w Counter-Strike: Global Offensive składa się na rozmaite turnieje organizowane przez organizacje trzecie oraz oficjalne mistrzostwa świata sponsorowane przez wydawcę, Valve, nazywane „majorami”. Majory mają większą pulę wygranych, początkowo wynoszącą 250 000 USD[144], a od turnieju MLG Columbus 2016 – 1 mln USD[145][146].
+
+Główną platformą, na której odbywają się transmisje z turniejów jest Twitch, jednak wraz z rozwojem popularności gry oraz jej sceny e-sportowej, różne firmy zainteresowały się także transmisją telewizyjną zawodowych rozgrywek w CS:GO. Transmisje z zawodów transmitowane były m.in. w amerykańskiej telewizji TBS[147]. Rozgrywki podczas majora w Atlancie w 2017 roku były transmitowane również wraz z komentarzem m.in. w polskiej stacji telewizyjnej Polsat Sport News[148].
+
+W 2014 roku podczas turnieju „CEVO Professional Season 5” miał miejsce głośny skandal związany z ustawieniem meczu, w którym drużyna iBUYPOWER celowo przegrała spotkanie z drużyną NetcodeGuides, aby zyskać na postawionych zakładach bukmacherskich[149]. Drużyna została zablokowana później przez Valve i do dziś nie ma prawa uczestniczyć w oficjalnych turniejach rangi „major”. W 2017 roku została dopuszczona do turniejów nieoficjalnych, organizowanych przez ESL.
+
+Lista dotychczasowych turniejów rangi „major”

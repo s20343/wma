@@ -1,0 +1,14 @@
+Project 2 - a tray and coins.
+The suplementary materials : sftp.pjwstk.edu.pl/public/mmajew/WMA/05 Project tray and coins
+
+Write a program which finds and calculates coins on tray8.jpg (total 12 points):
+- Find the contour of the tray (2 points).
+- Specify the area of the tray's contour (2 points).
+- Using the Hough transform find as many coins as possible on
+drawings (3 points).
+- Count:
+	>the big coins in the tray (1 point),
+	>the small coins in the tray (1 point),
+	>the big coins out of the tray (1 point),
+	>the small coins out of the tray (1 point).
+- Fine-tune system performance to correctly process photos: tray3.jpg and tray7.jpg (1 point).
